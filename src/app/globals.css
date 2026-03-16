@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-primary: #1A1A1A;
+    --brand-gold: #C8A97E;
+    --brand-gold-light: #F5EDD8;
+    --brand-gold-dark: #8B6914;
+    --neutral-0: #FFFFFF;
+    --neutral-50: #F7F7F5;
+    --neutral-100: #EEEDE8;
+    --neutral-400: #AAAAAA;
+    --neutral-600: #555555;
+    --neutral-900: #1A1A1A;
+    --navy: #2A3C5B;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-family: 'Montserrat', system-ui, sans-serif;
+    color: var(--neutral-900);
+    background: var(--neutral-0);
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  h1, h2 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+
+  h3, h4, h5, h6 {
+    font-family: 'Montserrat', system-ui, sans-serif;
+  }
+}
+
+.font-display { font-family: 'Cormorant Garamond', Georgia, serif; }
+.font-body    { font-family: 'Montserrat', system-ui, sans-serif; }
+
+.gold-line::after {
+  content: '';
+  display: block;
+  width: 40px;
+  height: 1px;
+  background: var(--brand-gold);
+  margin-top: 12px;
+}
+
+.section-pad {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+@media (min-width: 768px) {
+  .section-pad {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+}
+
+.container-qca {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}

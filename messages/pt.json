@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "about": "Sobre Nós",
+    "people": "Nossas Pessoas",
+    "diversity": "Diversidade",
+    "innovation": "Inovação",
+    "performa": "Performa",
+    "areas": "Áreas de Atuação",
+    "publications": "Publicações",
+    "media": "QCA na Mídia",
+    "legalTalks": "Legal Talks",
+    "articles": "Artigos",
+    "ebooks": "E-books e Guias",
+    "careers": "Quero ser QCA",
+    "contact": "Fale Conosco",
+    "privacy": "Privacidade",
+    "whistleblower": "Canal de Denúncia"
+  },
+  "hero": {
+    "tagline": "Performance Law",
+    "manifesto": "Manifesto da marca",
+    "manifestoCta": "Clique para ver o nosso manifesto",
+    "performa": "Performa: a plataforma QCA",
+    "performaCta": "Clique e conheça mais"
+  },
+  "about": {
+    "heading": "Aplicamos o Direito como ferramenta para soluções de negócio",
+    "body": "A equipe de especialistas que compõe o QCA reúne o melhor de dois mundos: a experiência de quem atua nos principais desafios de seus clientes e o dinamismo das mais inovadoras empresas da atualidade. Aliamos o conhecimento técnico sobre Direito e gestão à nossa habilidade para identificar as melhores soluções de cada caso.",
+    "body2": "Aqui, os problemas são tratados com profundidade, mas com flexibilidade para lidar individualmente com nossos clientes, garantindo serviços adequados a cada problema.",
+    "cta": "Saiba mais"
+  },
+  "areas": {
+    "heading": "Áreas de Atuação",
+    "list": [
+      "Administrativo",
+      "Ambiental e Sustentabilidade",
+      "Compliance e Integridade",
+      "Contencioso Cível",
+      "Contratos Empresariais",
+      "Imobiliário",
+      "Marítimo, Portuário e Aduaneiro",
+      "Contencioso Cível Estratégico"
+    ],
+    "cta": "Ver Mais"
+  },
+  "news": {
+    "heading": "Notícias",
+    "cta": "Ver todos",
+    "items": [
+      {
+        "category": "Sem categoria",
+        "title": "O fim da analogia com o Decreto 20.910/32: impactos do Tema 1294 do STJ",
+        "date": "12 de março de 2026",
+        "excerpt": "A prescrição, enquanto instituto de estabilização das relações sociais e de contenção do poder estatal, desempenha papel decisivo no ordenamento…"
+      },
+      {
+        "category": "Securitário",
+        "title": "STF inicia julgamento do Tema 1309 da Repercussão Geral",
+        "date": "2 de março de 2026",
+        "excerpt": "O Supremo Tribunal Federal iniciou, em fevereiro, o julgamento do Tema 1309 da Repercussão Geral (RE 1.479.774/RJ)…"
+      },
+      {
+        "category": "LGPD",
+        "title": "MP nº 1.317/2025: Senado consolida a ANPD como agência reguladora autônoma",
+        "date": "27 de fevereiro de 2026",
+        "excerpt": "A Presidência da República sancionou a Lei nº 15.352, de 2026, que transforma a Autoridade Nacional de Proteção de Dados…"
+      },
+      {
+        "category": "QCA",
+        "title": "Queiroz Cavalcanti Advocacia intensifica atuação com nova unidade em São Paulo",
+        "date": "10 de fevereiro de 2026",
+        "excerpt": "Com o objetivo de intensificar sua atuação na capital paulista, o QCA implementa mudanças estratégicas em sua unidade de São Paulo…"
+      }
+    ]
+  },
+  "articles": {
+    "heading": "Artigos",
+    "cta": "Ver todos",
+    "items": [
+      {
+        "area": "Bancário, Contencioso Cível",
+        "title": "Como os canais digitais estão redefinindo o DNA das transações bancárias no Brasil",
+        "excerpt": "Análise da transformação digital no setor bancário brasileiro. Veja como o mobile banking e o Pix dominaram as transações e o novo papel das agências.",
+        "author": "Everton Santana"
+      },
+      {
+        "area": "Bancário",
+        "title": "O advogado como estrategista de dados",
+        "excerpt": "Como a Inteligência Artificial está moldando o futuro da profissão",
+        "author": "Milena Karla e Stephanie Guedes"
+      },
+      {
+        "area": "Tributário",
+        "title": "O Imposto Seletivo na Reforma Tributária",
+        "excerpt": "Estrutura jurídica, finalidade extrafiscal e impactos econômicos",
+        "author": "Rayany Lima"
+      }
+    ]
+  },
+  "careers": {
+    "heading": "Faça parte do nosso time",
+    "body": "O QCA promove o contínuo desenvolvimento de suas equipes, adotando políticas e práticas que permitam o cumprimento dos seus propósitos empresariais, baseados num sólido conjunto de crenças e valores.",
+    "body2": "Temos a missão de manter cada equipe e cada profissional estimulados, inspirados e engajados nos pilares da cultura QCA: integridade, busca da perfeição, gestão com método, desenvolvimento pessoal, gentileza e simplicidade.",
+    "body3": "Estimulamos a diversidade de origens, ideias e opiniões. Aqui, você combinará conhecimento técnico e experiência com um ambiente que estimula a criatividade e o uso das mais recentes tecnologias.",
+    "believe": "Acreditamos na força das",
+    "believeBold": "pessoas",
+    "diversity": "Conheça mais sobre o nosso Programa de Diversidade",
+    "stats": {
+      "years": "anos de fundação",
+      "members": "integrantes",
+      "female": "de lideranças femininas",
+      "committees": "comitês temáticos internos"
+    },
+    "statsValues": {
+      "years": "20+",
+      "members": "200+",
+      "female": "60%",
+      "committees": "10"
+    }
+  },
+  "people": {
+    "heading": "Nossas Pessoas",
+    "cta": "Ver todos",
+    "roles": {
+      "partner": "Sócio",
+      "partnerF": "Sócia",
+      "managingPartner": "Sócio Gestor",
+      "innovationManager": "Gerente de Inovação"
+    },
+    "list": [
+      { "name": "Bruno Cavalcanti", "role": "Sócio" },
+      { "name": "Carlos Harten", "role": "Sócio" },
+      { "name": "Christianne Gomes", "role": "Sócia" },
+      { "name": "Manuela Moura", "role": "Sócia" },
+      { "name": "Camila Oliveira", "role": "Sócia" },
+      { "name": "Emília Belo", "role": "Sócia" },
+      { "name": "Ingrid Gadelha", "role": "Sócia" },
+      { "name": "Ricardo Varejão", "role": "Sócio" },
+      { "name": "Tiago Andrade Lima", "role": "Sócio" },
+      { "name": "Alvaro Pereira", "role": "Sócio Gestor" },
+      { "name": "Ana Valença", "role": "Gerente de Inovação" },
+      { "name": "Caio Vilela", "role": "Sócio" }
+    ]
+  },
+  "podcast": {
+    "heading": "Escute o Legal Talks",
+    "subheading": "O podcast do QCA",
+    "cta": "Ver todos",
+    "items": [
+      {
+        "guest": "Alexandre Bertoldi - Pinheiro Neto",
+        "title": "Entrevista com Alexandre Bertoldi, CEO do escritório Pinheiro Neto"
+      },
+      {
+        "guest": "Fabrício Almeida - XP Investimentos",
+        "title": "Do BMA Advogados à XP Investimentos: a trajetória de Fabrício Almeida"
+      },
+      {
+        "guest": "José Castro Neves - Escritor e Advogado",
+        "title": "Como os advogados salvaram o mundo? Um papo com José Roberto de Castro Neves"
+      },
+      {
+        "guest": "Carolina Hamaguchi - PicPay",
+        "title": "Os desafios de liderar o PicPay, gigante da tecnologia"
+      }
+    ]
+  },
+  "social": {
+    "heading": "Acompanhe o escritório nas redes sociais"
+  },
+  "footer": {
+    "privacy": "Aviso de privacidade",
+    "cookies": "Aviso de cookies",
+    "whistleblower": "Canal de Denúncia"
+  }
+}
